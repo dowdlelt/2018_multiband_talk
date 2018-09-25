@@ -18,3 +18,4 @@ SOCK: https://www.nitrc.org/projects/sock/
 Papers Referenced in slides:
 
 Slide 6: WIP...
+Slide 21: 1.	Todd N, Josephs O, Zeidman P, Flandin G, Moeller S, Weiskopf N. Functional Sensitivity of 2D Simultaneous Multi-Slice Echo-Planar Imaging: Effects of Acceleration on g-factor and Physiological Noise. Frontiers in Neuroscience. 2017;11. doi: 10.3389/fnins.2017.00158.

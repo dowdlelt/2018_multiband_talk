@@ -14,3 +14,7 @@ GIFT, Group ICA: http://mialab.mrn.org/software/gift/
 ICA-AROMA: https://github.com/maartenmennes/ICA-AROMA
 
 SOCK: https://www.nitrc.org/projects/sock/
+
+Papers Referenced in slides:
+
+Slide 6: WIP...

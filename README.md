@@ -15,7 +15,8 @@ ICA-AROMA: https://github.com/maartenmennes/ICA-AROMA
 
 SOCK: https://www.nitrc.org/projects/sock/
 
-Papers Referenced in slides:
+Papers Referenced:
+
 Slide 4: 
 Polimeni JR, Bhat H, Witzel T, Benner T, Feiweier T, Inati SJ, Renvall V, Heberlein K, Wald LL. Reducing sensitivity losses due to respiration and motion in accelerated echo planar imaging by reordering the autocalibration data acquisition. Magn Reson Med. 2016;75(2):665-79. Epub 2015/03/27. doi: 10.1002/mrm.25628. PubMed PMID: 25809559; PMCID: PMC4580494.
 
